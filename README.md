@@ -1,1 +1,1 @@
-# Tindog
+My first bootstrap project.
